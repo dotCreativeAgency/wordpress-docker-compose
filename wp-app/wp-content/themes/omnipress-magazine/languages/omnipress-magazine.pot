@@ -1,0 +1,167 @@
+# Copyright (C) 2023 omnipress-magazine
+# This file is distributed under the same license as the omnipress-magazine package.
+msgid ""
+msgstr ""
+"Project-Id-Version: omnipress-magazine\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-15 12:55+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: patterns/404.php:16
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Maybe try one of the links below or a search?"
+msgstr ""
+
+#: patterns/categories.php:13, patterns/footer-layout-two.php:33, patterns/sidebar-default.php:28
+msgid "Categories"
+msgstr ""
+
+#: patterns/categories.php:17
+msgid "Mauris ac fermentum quam, vel porta mi. Suspendisse potenti. Curabitur sit amet nulla."
+msgstr ""
+
+#: patterns/categories.php:22
+msgid "All Categories"
+msgstr ""
+
+#: patterns/categories.php:35
+msgid "Fashion"
+msgstr ""
+
+#: patterns/categories.php:45, patterns/post-module.php:52
+msgid "Travel"
+msgstr ""
+
+#: patterns/categories.php:55
+msgid "Technology"
+msgstr ""
+
+#: patterns/categories.php:65
+msgid "Entertainment"
+msgstr ""
+
+#: patterns/footer-default.php:39
+msgid "© 2023 Omnipress Magazine"
+msgstr ""
+
+#: patterns/footer-default.php:43
+msgid "Powered by WordPress | Developed By"
+msgstr ""
+
+#: patterns/footer-default.php:43, patterns/footer-layout-two.php:83
+msgid "OmnipressTeam"
+msgstr ""
+
+#: patterns/footer-layout-two.php:15
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-layout-two.php:20
+msgid "Loream ipsum dolor amet ekpoqi aywer amet sepoer amswt amsjt loream ipsum doues qeiro sieotp amet akeals nvber alet kskt amet loream ipsum"
+msgstr ""
+
+#: patterns/footer-layout-two.php:25
+msgid "View More"
+msgstr ""
+
+#: patterns/footer-layout-two.php:43, patterns/hero-sec.php:34
+msgid "Recent News"
+msgstr ""
+
+#: patterns/footer-layout-two.php:53
+msgid "Quick Contact"
+msgstr ""
+
+#: patterns/footer-layout-two.php:60
+msgid "Address Line 1, City, State XXXX"
+msgstr ""
+
+#: patterns/footer-layout-two.php:66
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/footer-layout-two.php:72
+msgid "(000) 000-0000"
+msgstr ""
+
+#: patterns/footer-layout-two.php:83
+msgid "Developed by"
+msgstr ""
+
+#: patterns/footer-layout-two.php:88
+msgid "Follow Us :"
+msgstr ""
+
+#: patterns/header-default.php:24
+msgid "Save 40%"
+msgstr ""
+
+#: patterns/header-default.php:24
+msgid "off! Join our newsletter and get"
+msgstr ""
+
+#: patterns/header-default.php:24
+msgid "40% off"
+msgstr ""
+
+#: patterns/header-default.php:24
+msgid "right away!"
+msgstr ""
+
+#: patterns/hero-sec.php:16
+msgid "Artists You Should Be Following on Instagram"
+msgstr ""
+
+#: patterns/hero-sec.php:20
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus congue,"
+msgstr ""
+
+#: patterns/hero-sec.php:20
+msgid "nunc sed cursus cursus, justo mauris imperdiet tortor."
+msgstr ""
+
+#: patterns/post-grid-four-column.php:29
+msgid "No Blog Post Found!"
+msgstr ""
+
+#: patterns/post-module.php:13
+msgid "Fashion & Lifestyle"
+msgstr ""
+
+#: patterns/post-module.php:18, patterns/post-module.php:57, patterns/post-module.php:101
+msgid "View All"
+msgstr ""
+
+#: patterns/post-module.php:96
+msgid "Food"
+msgstr ""
+
+#: patterns/sidebar-default.php:17
+msgid "sponsored"
+msgstr ""
+
+#: patterns/sidebar-default.php:40
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/sidebar-default.php:52
+msgid "Archive"
+msgstr ""
+
+#: patterns/sidebar-default.php:66
+msgid "Category Tags"
+msgstr ""
+
+#: patterns/sidebar-default.php:80
+msgid "Get In Touch"
+msgstr ""
